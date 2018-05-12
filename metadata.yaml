@@ -1,0 +1,38 @@
+_repo: Half-a-Hundred-Hero-Talesof-Ulysses-and-The-Men-of-Old_41765
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Papé, Frank Cheyne
+    aliases:
+    - Papé, Frank C.
+    - Pape, Frank Cheyne
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '39182'
+    url: http://www.gutenberg.org/2009/agents/39182
+covers:
+- cover_type: archival
+  image_path: 41765-h/images/cover-page.jpg
+creator:
+  editor:
+    agent_name: Storr, Francis
+    alias: Storr, F. (Francis)
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '5050'
+    url: http://www.gutenberg.org/2009/agents/5050
+description: ''
+gutenberg_issued: '2013-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41765'
+  lccn: '11001346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mythology, Classical -- Juvenile literature'
+title: Half a Hundred Hero Tales of Ulysses and The Men of Old
+url: http://www.gutenberg.org/ebooks/41765
